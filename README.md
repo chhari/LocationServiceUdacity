@@ -14,9 +14,6 @@ Support
 
 - Stack Overflow: http://stackoverflow.com/questions/tagged/google-play-services
 
-If you've found an error in these samples, please file an issue:
-https://github.com/googlesamples/android-play-location/issues
-
 
 
 License
